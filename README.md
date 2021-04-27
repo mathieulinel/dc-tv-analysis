@@ -1,2 +1,2 @@
 # dc-tv-analysis
-Parsing TV viewership data
+Parsing & visualizing TV viewership data using pandas, matplotlib, seaborn
